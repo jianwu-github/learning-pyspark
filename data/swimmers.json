@@ -1,18 +1,3 @@
-[{ "id": "123",
-    "name": "Katie",
-    "age": 19,
-    "eyeColor": "brown"
-  },
-  {
-    "id": "234",
-    "name": "Michael",
-    "age": 22,
-    "eyeColor": "green"
-  },
-  {
-    "id": "345",
-    "name": "Simone",
-    "age": 23,
-    "eyeColor": "blue"
-  }
-]
+{"id": 1001, "name": "Katie", "age": 19, "eye_color": "brown"}
+{"id": 1002, "name": "Michael", "age": 22, "eye_color": "green"}
+{"id": 1003, "name": "Simon", "age": 23, "eye_color": "blue"}
